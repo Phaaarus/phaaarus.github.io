@@ -23,7 +23,7 @@ subtitle                 : "A Newcomer's Research Log on Vision Transformer mode
 name                     : "Phaaarus"
 description              : "A way to AI developer"
 url                      : "https://phaaarus.github.io"
-baseurl                  : "/main" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Phaaarus/phaaarus.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
