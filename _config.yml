@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Lighthouse of the AI Seas"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "A Newcomer's Research Log on Vision Transformer models" # site tagline that appears below site title in masthead
 name                     : "Phaaarus"
 description              : "A way to AI developer"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sungwan Ryu"
+  name             : "Phaaarus"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I will build a **solid** foundation of knowledge"
+  bio              : "**단단한** 지식기반을 얻자"
   location         : "Seoul, Republic of Korea"
   email            : "ssk05118@hanyang.ac.kr"
   links:
